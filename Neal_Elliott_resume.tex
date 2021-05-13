@@ -1,0 +1,205 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Graduate Curriculum Vitae
+% LaTeX Template
+% Version 1.1 (9/12/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/)
+%
+% Important note:
+% This template requires the res.cls file to be in the same directory as the
+% .tex file. The res.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+% PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[margin, 10pt]{res} % Use the res.cls style, the font size can be changed to 11pt or 12pt here
+
+\usepackage{helvet} % Default font is the helvetica postscript font
+%\usepackage{newcent} % To change the default font to the new century schoolbook postscript font uncomment this line and comment the one above
+
+\setlength{\textwidth}{5.1in} % Text width of the document
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% NAME AND ADDRESS SECTION
+%----------------------------------------------------------------------------------------
+
+\moveleft.5\hoffset\centerline{\large\bf Neal Edward Elliott Sr.} % Your name at the top
+
+\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'
+
+\moveleft.5\hoffset\centerline{2070 Ingleside Ct} % Your address
+\moveleft.5\hoffset\centerline{Crofton, MD 21114}
+\moveleft.5\hoffset\centerline{(443) 694-1060}
+\moveleft.5\hoffset\centerline{nealelliott@netscape.net}
+\moveleft.5\hoffset\centerline{https://binary-janitor.com}
+
+%----------------------------------------------------------------------------------------
+
+\begin{resume}
+
+%----------------------------------------------------------------------------------------
+% Technology SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{TECHNOLOGY \\ SKILLS}
+
+{\sl \textbf{Programming Languages:}} Bash, Tcl/TK, expect, Perl, C, YAML, PHP, JavaScript, Java. \\
+{\sl \textbf{Operations Technologies:}} Docker, Jenkins, Ansible, Vagrant, OpenSMTPD, git. \\
+{\sl \textbf{Third Party Integrations:}} S3, OpenLDAP (LDAP), FreeIPA (LDAP), OpenDirectory (LDAP) \\
+{\sl \textbf{Cloud Providers:}} AWS, GCE, VMWare vsphere. \\
+{\sl \textbf{Operating Systems:}} MacOS, Windows 10, GNU/Linux (Debian / CentOS), OpenBSD, NetBSD, FreeBSD, AIX, Solaris. \\
+{\sl \textbf{Embedded Engineering:}} Raspberry Pi, Arduino. \\
+{\sl \textbf{Education:}} B.S. in computer science from UMGC\\
+{\sl \textbf{Clearance:}} TS/SCI \\
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{EXPERIENCE}
+
+{\sl Sr. System Administrator } \hfill 2016-Present \\
+Peraton
+\begin{itemize}
+  \item Worked as a developer in an Agile scrum team to write ansible playbooks to automate software installs.
+  \item Designed, and implemented a central syslog solution using rsyslog.
+  \item Built an internal webhosted CentOS RPM repository to maintain current patches of operational VMs.
+  \item built a website using PHP to help users change their passwords on both LDAP and Active Directory account management systems.
+  \item Planned and implemented migration of Solaris ClearCase source code repository into a modern CentOS ClearCase version.
+  \item built customized RPMS, and windows NSIS installer to install in-house software.
+\end{itemize}
+
+{\sl System Administrator } \hfill 2006-2016 \\
+Northrop Grumman Corporation
+\begin{itemize}
+  \item Supporting and maintaining enterprise level data center servers on a distributed network.
+  \item Experience with VMware vSphere, and ESXi server
+  \item Experience with Isilon’s Onefs
+  \item Ported a Solaris version of Nagios which included apache/PHP dependencies.
+  \item Designed and documented storage (RAID) solutions for servers
+  \item Built custom Solaris packages, and Linux RPMS out of freeware COTS products
+  \item Proactively tunes systems to limit performance problems.
+  \item Scans systems using SECSCAN and harden them based off of the scan results.
+  \item Provide level 2 and 3 SME support for multiple Solaris systems that are located worldwide.
+  \item Support application development during the software development life cycle.
+  \item Develop scripts using expect to automate system transitions.
+  \item Troubleshoot and identify OS and software related issues by using truss and collecting various system logs.
+  \item Resolves network related problems such as correcting VLAN assignments.
+  \item Troubleshoots and corrects network performance problems
+  \item Designed a backup solution by using Open Source software AMANDA.
+  \item Developed a script to automate router backups on over 100+ routers nightly.
+  \item Proficient in C, TCL/TK, Java, expect and Perl.
+  \item Documents install procedures for baseline system configurations.
+  \item Built custom jumpstart Solaris 10 install DVDs for automated installs
+  \item Writes software fixes for custom server releases
+  \item Uses ZFS and disk suite for various raid level configurations.
+\end{itemize}
+
+{\sl Mission System Engineer } \hfill 2004-2006 \\
+Honeywell
+\begin{itemize}
+\item Provide system software support for Linux, IRIX, Solaris and AIX systems.
+\item Developed shell scripts to automate account management on various UNIX platforms.
+\item Planned and configured High Availability Cluster Management for AIX 5.2 servers.
+\item Developed a full backup and restore plan for Linux, AIX and IRIX systems.
+\item Run network security scans to audit system vulnerability.
+\item Configured a system log server that consolidates system logs to two IRIX servers.
+\item Designed a script that emails system administrators when host is unreachable.
+\item Supported deployment Teams at White Sands NM, Fairbanks AK, Wallops VA, Svalbard Norway and Goddard Space Flight Center.
+\item Configured gigabit network for several CIDR /27 networks.
+\end{itemize}
+
+{\sl Solaris System Administrator} \hfill 2003-2004 \\
+Mori Associates
+\begin{itemize}
+\item Lead UNIX system administrator Responsible for all of the UNIX machines on the NIDDK/NIH campus.
+\item Scheduled system outages for patch installs.
+\item Detailed troubleshooting of hardware, software, and network related issues.
+\item Manage and maintain system level security.
+\item Ensured patch level of each OS.
+\item Responsible for the following operating systems; IRIX, Linux, Solaris and AIX.
+\item Developed backup scripts for numerous machines.
+\item Worked closely on computing problems with the researchers at the National Institute of Health.
+\item Support mathmatica, Maple and many other NIH based applications.
+\item Wrote custom applications in C, Tcl/Tk and perl.
+\end{itemize}
+
+{\sl System Engineer/Consultant } \hfill 2003-2003 \\
+IT-CNP
+\begin{itemize}
+\item Implemented a High Availability Cluster using two Dell Power edge servers running Red hat advanced server 2.0.  The cluster shared a Dell power vault disk array for storage of the highly available postgres database. The servers are used for traffic monitoring in the Maryland/DC area.
+\end{itemize}
+
+{\sl UNIX System Administrator } \hfill 1998 - 2003 \\
+Honeywell Technology Solutions, Inc.
+\begin{itemize}
+\item Implemented various software development lifecycle patterns to decrease development times and improve the speed at which software was deployed to production across many teams.
+\item UNIX system administrator for approximately 200 machines with operating systems TRU64, IRIX, AIX, Linux, Solaris, FreeBSD, OpenBSD, Mac-OS, Cisco IOS 11, OS/2 warp, vxworks, and Windows (all versions).
+\item Configured and maintained Cisco catalyst and 7500 series routers.
+\item Installed and used Tivoli Netview.
+\item Setup and built a High Availability Cluster Management (HACMP) for AIX.
+\item Installed and configured Legato Networker for a network backup system.
+\item Designed FDDI and 10BaseT networks, Domain Name Servers (DNS) and IRIX web servers.
+\item Installed and maintained Lighthouse matrix switches
+\item Developed shell scripts for system management, programs in C, TCL/TK Java programming, C++ programming, and Distributed Computing Environment (DCE).
+\item Troubleshot network problems.
+\item Responsible for securing multiple types of UNIX systems.
+\item Traveled to Alaska, White sands test facility in New Mexico and Norway to install ground stations for NASA's EDOS Project.
+\item Tested data links between Norway and NASA Goddard space flight center for real-time satellite data capture.
+\item Certified Linux administrator.
+\item Wrote custom UNIX scripts for TRW engineers.
+\item Traveled to South Boston to test the software on the central artery tunnel also known as Big Dig.
+\end{itemize}
+
+{\sl Lead System Administrator } \hfill 2000 - 2003 \\
+IntelliObjects
+\begin{itemize}
+\item Implemented web application security standards defined by OWASP.
+\item Developed and built the company network.
+\item Created the DNS server and coordinated the domain name registration.
+\item Installed and configured the company mail server.
+\item Configured and built apache for the company web server.
+\item Designed and installed the network firewall.
+\end{itemize}
+
+{\sl Electronic Maintenance Tech 2 } \hfill Jan 1997 - 1998 \\
+Honeywell Technology Solutions, Inc.
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item Supported the Earth Data Observation System (EDOS) Project.
+\item Assisted installation of a level zero processing facility (LZPF), upgraded, monitored, maintained and Repaired IBM RS/6000, SUN, SGI, PC's, and Mac equipment.
+\item Built and tested N-type and BNC cables.
+\item Configured, tested, maintained, and repaired Wan Router/Matrix Switches.
+\item Maintained and tested Lighthouse matrix switches.
+\item Configured and provide routine maintenance of Ampex DIS 160i tape drives.
+\item Installed Cisco Catalyst.
+\item Other duties as assigned.
+\end{itemize}
+
+{\sl Electronic Tech 1} \hfill Dec 1996 - 1997\\
+Honeywell Technology Solutions, Inc.
+\begin{itemize}
+\item Troubleshot, built, and configured computer systems.
+\item Installed and fabricated ceiling mounted TV's.
+\item Installed breaker panels for expansion.
+\item Added electrical outlets for new computer installs
+\item Installed circuit Breakers for computer equipment.
+\item Installed uninterruptible power supplies that were various sizes
+\item Built and tested RJ45 and coax cables.
+\item Disassembled 3-meter satellite tracking antenna in semi valley California.
+\item Develop plans to fabricate mounts or stands for uniquely shaped devices.
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+
+\end{resume}
+\end{document}
