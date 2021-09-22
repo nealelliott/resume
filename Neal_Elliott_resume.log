@@ -1,0 +1,115 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.3.12)  22 SEP 2021 13:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Neal_Elliott_resume.tex
+(./Neal_Elliott_resume.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (./res.cls
+Document Style `res' <26 Sep 89>.
+Document Class: res 2000/05/19 v1.4b Resume class
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+No auxiliary output files.
+
+\tabular@text=\toks14
+\tabular@head=\toks15
+\tabular@tail=\toks16
+\@ta=\toks17
+\undefined@token=\toks18
+\sectionwidth=\dimen135
+\sectionskip=\skip49
+\resumewidth=\dimen136
+\@columnwidth=\dimen137
+\c@numberofcolumns=\count175
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count176
+\l__pdf_backend_content_box=\box46
+\l__pdf_backend_model_box=\box47
+\g__pdf_backend_annotation_int=\count177
+\g__pdf_backend_link_int=\count178
+\g__pdf_backend_link_sf_int=\count179
+)
+
+LaTeX Warning: Unused global option(s):
+    [10pt].
+
+No file Neal_Elliott_resume.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 48.
+
+Overfull \hbox (5.44449pt too wide) in paragraph at lines 56--64
+[]\OT1/cmr/bx/sl/10 Programming Lan-guages: \OT1/cmr/m/n/10 Bash, Tcl/TK, ex-pe
+ct, Perl, C, YAML, PHP, JavaScript,
+ []
+
+
+Overfull \hbox (16.34898pt too wide) in paragraph at lines 56--64
+\OT1/cmr/bx/sl/10 Operating Sys-tems: \OT1/cmr/m/n/10 Ma-cOS, Win-dows 10, GNU/
+Linux (De-bian / Cen-tOS), OpenBSD,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--64
+
+ []
+
+
+Overfull \hbox (3.25433pt too wide) in paragraph at lines 82--83
+[]\OT1/cmr/m/n/10 Built an in-ter-nal web-hosted Cen-tOS RPM repos-i-tory to ma
+in-tain cur-rent patches
+ []
+
+[1
+
+] [2] [3] [4] ) 
+Here is how much of TeX's memory you used:
+ 498 strings out of 483184
+ 7972 string characters out of 5966318
+ 238968 words of memory out of 5000000
+ 15584 multiletter control sequences out of 15000+600000
+ 534298 words of font info for 30 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 32i,8n,25p,333b,169s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Neal_Elliott_resume.dvi (4 pages, 12376 bytes).
