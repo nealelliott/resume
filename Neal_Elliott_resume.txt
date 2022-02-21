@@ -2,8 +2,8 @@
                         Neal Edward Elliott Sr.
 ____________________________________________________________________
 
-                             2070 Ingleside Ct
-                            Crofton, MD 21114
+                         6819 Morning Brook Terrace
+                           Alexandria, VA 22315
                              (443) 694-1060
                           nealelliott@netscape.net
                           https://binary-janitor.com
@@ -30,137 +30,136 @@ SKILLS        Java.
 
 EXPERIENCE    Software Developer                                 2021-Present
               Peraton
-                # maintain custom software through automation using ansible.
+                # Maintain custom software through automation using Ansible
 
-                # troubleshoot and identify vulnerabilities, in applications.
+                # Troubleshoot and identify vulnerabilities, in applications
 
 
               Sr. System Administrator                               2020-2021
               Peraton
                 # Worked as a developer in an Agile scrum team to write ansible*
  * playbooks to
-                  automate software installs.
+                  automate software installs
 
                 # Designed, and implemented a central syslog solution using rsy*
- *slog.
+ *slog
 
                 # Built an internal webhosted CentOS RPM repository to maintain*
  * current patches
-                  of operational VMs.
+                  of operational VMs
 
                 # built a website using PHP to help users change their password*
  *s on both LDAP
-                  and Active Directory account management systems.
+                  and Active Directory account management systems
 
                 # Planned and implemented migration of Solaris ClearCase source*
  * code repository
-                  into a modern CentOS ClearCase version.
+                  into a modern CentOS ClearCase version
 
                 # built customized RPMS, and windows NSIS installer to install *
- *in-house soft-
-                  ware.
+ *in-house software
 
 
               System Administrator                                 2006-2020
               Northrop Grumman Corporation
                 # Supporting and maintaining enterprise level data center serve*
  *rs on a distributed
-                  network.
+                  network
 
                 # Experience with VMware vSphere, and ESXi server
 
                 # Experience with Isilon's Onefs
 
                 # Ported a Solaris version of Nagios which included apache/PHP *
- *dependencies.
+ *dependencies
 
                 # Designed and documented storage (RAID) solutions for servers
+
+                # Built custom Solaris packages, and Linux RPMS out of freeware*
+ * COTS products
 
-  #Built custom Solaris packages, and Linux RPMS out of freeware COTS products
+  #Proactively tunes systems to limit performance problems
 
-  #Proactively tunes systems to limit performance problems.
-
-  #Scans systems using SECSCAN and harden them based off of the scan results.
+  #Scans systems using SECSCAN and harden them based off of the scan results
 
   #Provide level 2 and 3 SME support for multiple Solaris systems that are loca*
  *ted
-   worldwide.
+   worldwide
 
-  #Support application development during the software development life cycle.
+  #Support application development during the software development life cycle
 
-  #Develop scripts using expect to automate system transitions.
+  #Develop scripts using expect to automate system transitions
 
   #Troubleshoot and identify OS and software related issues by using truss and
-   collecting various system logs.
+   collecting various system logs
 
-  #Resolves network related problems such as correcting VLAN assignments.
+  #Resolves network related problems such as correcting VLAN assignments
 
   #Troubleshoots and corrects network performance problems
 
-  #Designed a backup solution by using Open Source software AMANDA.
+  #Designed a backup solution by using Open Source software AMANDA
 
-  #Developed a script to automate router backups on over 100+ routers nightly.
+  #Developed a script to automate router backups on over 100+ routers nightly
 
-  #Proficient in C, TCL/TK, Java, expect and Perl.
+  #Proficient in C, TCL/TK, Java, expect and Perl
 
-  #Documents install procedures for baseline system configurations.
+  #Documents install procedures for baseline system configurations
 
   #Built custom jumpstart Solaris 10 install DVDs for automated installs
 
   #Writes software fixes for custom server releases
 
-  #Uses ZFS and disk suite for various raid level configurations.
+  #Uses ZFS and disk suite for various raid level configurations
 
 
 Mission System Engineer                               2004-2006
 Honeywell
-  #Provide system software support for Linux, IRIX, Solaris and AIX systems.
+  #Provide system software support for Linux, IRIX, Solaris and AIX systems
 
   #Developed shell scripts to automate account management on various UNIX
-   platforms.
+   platforms
 
   #Planned and configured High Availability Cluster Management for AIX 5.2
-   servers.
+   servers
 
-  #Developed a full backup and restore plan for Linux, AIX and IRIX systems.
+  #Developed a full backup and restore plan for Linux, AIX and IRIX systems
 
-  #Run network security scans to audit system vulnerability.
+  #Run network security scans to audit system vulnerability
 
-  #Configured a system log server that consolidates system logs to two IRIX
-   servers.
+  #Configured a system log server that consolidates system logs to two IRIX ser*
+ *vers
 
-  #Designed a script that emails system administrators when host is unreachable.
+  #Designed a script that emails system administrators when host is unreachable
 
   #Supported deployment Teams at White Sands NM, Fairbanks AK, Wallops VA,
-   Svalbard Norway and Goddard Space Flight Center.
+   Svalbard Norway and Goddard Space Flight Center
 
-  #Configured gigabit network for several CIDR /27 networks.
+  #Configured gigabit network for several CIDR /27 networks
 
 
 Solaris System Administrator                            2003-2004
 Mori Associates
   #Lead UNIX system administrator Responsible for all of the UNIX machines on
-   the NIDDK/NIH campus.
+   the NIDDK/NIH campus
 
-  #Scheduled system outages for patch installs.
+  #Scheduled system outages for patch installs
 
-  #Detailed troubleshooting of hardware, software, and network related issues.
+  #Detailed troubleshooting of hardware, software, and network related issues
 
-  #Manage and maintain system level security.
+  #Manage and maintain system level security
 
-  #Ensured patch level of each OS.
+  #Ensured patch level of each OS
 
-  #Responsible for the following operating systems; IRIX, Linux, Solaris and AI*
- *X.
+  #Responsible for the following operating systems; IRIX, Linux, Solaris and AIX
+
+  #Developed backup scripts for numerous machines
 
-  #Developed backup scripts for numerous machines.
-
   #Worked closely on computing problems with the researchers at the National
-   Institute of Health.
+   Institute of Health
 
-  #Support mathmatica, Maple and many other NIH based applications.
+  #Support mathmatica, Maple and many other NIH based applications
 
-  #Wrote custom applications in C, Tcl/Tk and perl.
+  #Wrote custom applications in C, Tcl/Tk and perl
 
 
 System Engineer/Consultant                             2003-2003
@@ -225,9 +224,9 @@ IntelliObjects
   #Developed and built the company network.
 
   #Created the DNS server and coordinated the domain name registration.
-
-  #Installed and configured the company mail server.
 
+  #Installed and configured the company mail server.
+
   #Configured and built apache for the company web server.
 
   #Designed and installed the network firewall.
