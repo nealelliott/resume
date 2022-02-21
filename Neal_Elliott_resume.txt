@@ -1,0 +1,269 @@
+
+                        Neal Edward Elliott Sr.
+____________________________________________________________________
+
+                             2070 Ingleside Ct
+                            Crofton, MD 21114
+                             (443) 694-1060
+                          nealelliott@netscape.net
+                          https://binary-janitor.com
+
+
+
+TECHNOLOGY    Programming Languages: Bash, Tcl/TK, expect, Perl, C, YAML, PHP, *
+ *JavaScript,
+SKILLS        Java.
+              Operations Technologies: Docker, Jenkins, Ansible, Vagrant, OpenS*
+ *MTPD, git.
+              Third Party Integrations: S3, OpenLDAP (LDAP), FreeIPA (LDAP), Op*
+ *enDi-
+              rectory (LDAP)
+              Cloud Providers: AWS, GCE, VMWare vsphere.
+              Operating Systems: MacOS, Windows 10, GNU/Linux (Debian / CentOS)*
+ *, OpenBSD,
+              NetBSD, FreeBSD, AIX, Solaris.
+              Embedded Engineering: Raspberry Pi, Arduino.
+              Education: B.S. in computer science from UMGC
+              Clearance: TS/SCI
+
+
+
+EXPERIENCE    Software Developer                                 2021-Present
+              Peraton
+                # maintain custom software through automation using ansible.
+
+                # troubleshoot and identify vulnerabilities, in applications.
+
+
+              Sr. System Administrator                               2020-2021
+              Peraton
+                # Worked as a developer in an Agile scrum team to write ansible*
+ * playbooks to
+                  automate software installs.
+
+                # Designed, and implemented a central syslog solution using rsy*
+ *slog.
+
+                # Built an internal webhosted CentOS RPM repository to maintain*
+ * current patches
+                  of operational VMs.
+
+                # built a website using PHP to help users change their password*
+ *s on both LDAP
+                  and Active Directory account management systems.
+
+                # Planned and implemented migration of Solaris ClearCase source*
+ * code repository
+                  into a modern CentOS ClearCase version.
+
+                # built customized RPMS, and windows NSIS installer to install *
+ *in-house soft-
+                  ware.
+
+
+              System Administrator                                 2006-2020
+              Northrop Grumman Corporation
+                # Supporting and maintaining enterprise level data center serve*
+ *rs on a distributed
+                  network.
+
+                # Experience with VMware vSphere, and ESXi server
+
+                # Experience with Isilon's Onefs
+
+                # Ported a Solaris version of Nagios which included apache/PHP *
+ *dependencies.
+
+                # Designed and documented storage (RAID) solutions for servers
+
+  #Built custom Solaris packages, and Linux RPMS out of freeware COTS products
+
+  #Proactively tunes systems to limit performance problems.
+
+  #Scans systems using SECSCAN and harden them based off of the scan results.
+
+  #Provide level 2 and 3 SME support for multiple Solaris systems that are loca*
+ *ted
+   worldwide.
+
+  #Support application development during the software development life cycle.
+
+  #Develop scripts using expect to automate system transitions.
+
+  #Troubleshoot and identify OS and software related issues by using truss and
+   collecting various system logs.
+
+  #Resolves network related problems such as correcting VLAN assignments.
+
+  #Troubleshoots and corrects network performance problems
+
+  #Designed a backup solution by using Open Source software AMANDA.
+
+  #Developed a script to automate router backups on over 100+ routers nightly.
+
+  #Proficient in C, TCL/TK, Java, expect and Perl.
+
+  #Documents install procedures for baseline system configurations.
+
+  #Built custom jumpstart Solaris 10 install DVDs for automated installs
+
+  #Writes software fixes for custom server releases
+
+  #Uses ZFS and disk suite for various raid level configurations.
+
+
+Mission System Engineer                               2004-2006
+Honeywell
+  #Provide system software support for Linux, IRIX, Solaris and AIX systems.
+
+  #Developed shell scripts to automate account management on various UNIX
+   platforms.
+
+  #Planned and configured High Availability Cluster Management for AIX 5.2
+   servers.
+
+  #Developed a full backup and restore plan for Linux, AIX and IRIX systems.
+
+  #Run network security scans to audit system vulnerability.
+
+  #Configured a system log server that consolidates system logs to two IRIX
+   servers.
+
+  #Designed a script that emails system administrators when host is unreachable.
+
+  #Supported deployment Teams at White Sands NM, Fairbanks AK, Wallops VA,
+   Svalbard Norway and Goddard Space Flight Center.
+
+  #Configured gigabit network for several CIDR /27 networks.
+
+
+Solaris System Administrator                            2003-2004
+Mori Associates
+  #Lead UNIX system administrator Responsible for all of the UNIX machines on
+   the NIDDK/NIH campus.
+
+  #Scheduled system outages for patch installs.
+
+  #Detailed troubleshooting of hardware, software, and network related issues.
+
+  #Manage and maintain system level security.
+
+  #Ensured patch level of each OS.
+
+  #Responsible for the following operating systems; IRIX, Linux, Solaris and AI*
+ *X.
+
+  #Developed backup scripts for numerous machines.
+
+  #Worked closely on computing problems with the researchers at the National
+   Institute of Health.
+
+  #Support mathmatica, Maple and many other NIH based applications.
+
+  #Wrote custom applications in C, Tcl/Tk and perl.
+
+
+System Engineer/Consultant                             2003-2003
+IT-CNP
+  #Implemented a High Availability Cluster using two Dell Power edge servers
+   running Red hat advanced server 2.0. The cluster shared a Dell power vault
+   disk array for storage of the highly available postgres database. The server*
+ *s are
+   used for traffic monitoring in the Maryland/DC area.
+
+
+UNIX System Administrator                            1998 - 2003
+Honeywell Technology Solutions, Inc.
+  #Implemented various software development lifecycle patterns to decrease de-
+   velopment times and improve the speed at which software was deployed to
+   production across many teams.
+
+  #UNIX system administrator for approximately 200 machines with operating sys-
+   tems TRU64, IRIX, AIX, Linux, Solaris, FreeBSD, OpenBSD, Mac-OS, Cisco
+   IOS 11, OS/2 warp, vxworks, and Windows (all versions).
+
+  #Configured and maintained Cisco catalyst and 7500 series routers.
+
+  #Installed and used Tivoli Netview.
+
+  #Setup and built a High Availability Cluster Management (HACMP) for AIX.
+
+  #Installed and configured Legato Networker for a network backup system.
+
+  #Designed FDDI and 10BaseT networks, Domain Name Servers (DNS) and IRIX
+   web servers.
+
+  #Installed and maintained Lighthouse matrix switches
+
+  #Developed shell scripts for system management, programs in C, TCL/TK Java
+   programming, C++ programming, and Distributed Computing Environment
+   (DCE).
+
+  #Troubleshot network problems.
+
+  #Responsible for securing multiple types of UNIX systems.
+
+  #Traveled to Alaska, White sands test facility in New Mexico and Norway to
+   install ground stations for NASA's EDOS Project.
+
+  #Tested data links between Norway and NASA Goddard space flight center for
+   real-time satellite data capture.
+
+  #Certified Linux administrator.
+
+  #Wrote custom UNIX scripts for TRW engineers.
+
+  #Traveled to South Boston to test the software on the central artery tunnel a*
+ *lso
+   known as Big Dig.
+
+
+Lead System Administrator                             2000 - 2003
+IntelliObjects
+  #Implemented web application security standards defined by OWASP.
+
+  #Developed and built the company network.
+
+  #Created the DNS server and coordinated the domain name registration.
+
+  #Installed and configured the company mail server.
+
+  #Configured and built apache for the company web server.
+
+  #Designed and installed the network firewall.
+
+
+Electronic Maintenance Tech 2                        Jan 1997 - 1998
+Honeywell Technology Solutions, Inc.
+  #Supported the Earth Data Observation System (EDOS) Project.
+  #Assisted installation of a level zero processing facility (LZPF), upgraded, *
+ *mon-
+   itored, maintained and Repaired IBM RS/6000, SUN, SGI, PC's, and Mac
+   equipment.
+  #Built and tested N-type and BNC cables.
+  #Configured, tested, maintained, and repaired Wan Router/Matrix Switches.
+  #Maintained and tested Lighthouse matrix switches.
+  #Configured and provide routine maintenance of Ampex DIS 160i tape drives.
+  #Installed Cisco Catalyst.
+  #Other duties as assigned.
+
+
+Electronic Tech 1                                Dec 1996 - 1997
+Honeywell Technology Solutions, Inc.
+  #Troubleshot, built, and configured computer systems.
+
+  #Installed and fabricated ceiling mounted TV's.
+
+  #Installed breaker panels for expansion.
+
+  #Added electrical outlets for new computer installs
+
+  #Installed circuit Breakers for computer equipment.
+
+  #Installed uninterruptible power supplies that were various sizes
+
+  #Built and tested RJ45 and coax cables.
+
+  #Disassembled 3-meter satellite tracking antenna in semi valley California.
+
+  #Develop plans to fabricate mounts or stands for uniquely shaped devices.
